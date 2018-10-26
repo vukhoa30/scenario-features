@@ -6,3 +6,4 @@ Feature:
     When at first I was like :)
     And 
     Then I was like :O
+    And I walk away like a bawss
