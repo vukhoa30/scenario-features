@@ -3,5 +3,6 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    When haha
-    Then yes
+    When at first I was like :)
+    And 
+    Then I was like :O
