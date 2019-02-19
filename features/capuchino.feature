@@ -3,4 +3,4 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    empty chap 2
+    Given empty chap 2
