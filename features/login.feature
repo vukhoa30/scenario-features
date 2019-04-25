@@ -13,4 +13,4 @@ Feature: Login
     And The password input is empty
     
     When someting happens
-    But e re
+    And I'm fabulous
