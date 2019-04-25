@@ -11,4 +11,5 @@ Feature: Login
     When I input a wrong username/password pair and click "Login"
     Then An error message saying "Invalid username/password" should appears
     And The password input is empty
+    And 
     
