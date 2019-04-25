@@ -14,3 +14,5 @@ Feature: Login
     
     When someting happens
     And I'm fabulous
+    And Wassup
+    
