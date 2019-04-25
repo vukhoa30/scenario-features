@@ -12,6 +12,6 @@ Feature: Login
     Then An error message saying "Invalid username/password" should appears
     And The password input is empty
     
-    When someting happens
-    And I'm fabulous
-    And Wassup boi
+    When someting happens boiiiiii
+    And I'm fabulous yeea
+    
