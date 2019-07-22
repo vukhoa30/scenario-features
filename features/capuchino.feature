@@ -2,4 +2,4 @@ Feature:
   <Some interesting description here>
 
   Scenario:
-    Given empty chap 1
+    Given empty chap 2
