@@ -1,7 +1,8 @@
 Feature:
   <Some interesting description here>
 
-    @tag1 @tage
+    @tag1 @tag
   Scenario:
     <Some interesting scenario steps here>
-1
+    When it's raw!
+    
