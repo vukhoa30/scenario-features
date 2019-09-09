@@ -2,8 +2,12 @@ Feature: sample text
 
     @tag1 @tag
   Scenario: first
-    When it's raw!
+    Given user at login page
+    When user input username/password
+    Then user go to dashboard
     
   Scenario: second
-    When it's raw!
+    Given user at login page
+    When user input username/wrongpassword
+    Then user go to dashboard
     
