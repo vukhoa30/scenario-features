@@ -10,7 +10,7 @@ Feature: sample text
     Given user at login page
     When user input username/wrongpassword
     Then user go to dashboard
-    And 1
+    And 1111
     And 11
     And 12
     And 13
